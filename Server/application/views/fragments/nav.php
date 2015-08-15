@@ -12,13 +12,5 @@
 				<a href="#">Home</a>
 			</li>
 		</ul>
-		<form class="navbar-form navbar-right" role="search">
-			<div class="form-group">
-				<input type="text" class="form-control input-sm" />
-			</div> 
-			<button type="submit" class="btn btn-default btn-sm">
-				Search
-			</button>
-		</form>
 	</div>
 </nav>

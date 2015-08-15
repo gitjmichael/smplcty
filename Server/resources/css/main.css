@@ -1,7 +1,18 @@
 .space-big{
 	margin-bottom: 50px;
 }
+.well-sm{
+	padding: 10px;
+}
+
+.space-gap{
+	margin-bottom: 20px;
+}
 
 #google-map{
-	height: 500px;
+	height: 400px;
+}
+.smplcty-tab li[role="presentation"]{
+	width: 50%;
+	text-align: center;
 }
