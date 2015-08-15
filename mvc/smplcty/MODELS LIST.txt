@@ -1,0 +1,39 @@
+user
+	-firstname
+	-lastname
+	-email
+	-password
+	-priviledge
+	- birthdate
+	-date joined
+
+
+promotion	
+	-title
+	-company_id
+	-date_posted
+	-img_url
+	-location
+	-description
+	-start
+	-end
+	-category/type
+
+company
+	name
+	owner_id
+	descirption
+	img_banner
+	location
+	type
+
+comments
+	content
+	promotion_id
+	date
+	user_id
+
+
+
+
+	
