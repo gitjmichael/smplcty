@@ -19,11 +19,13 @@
 	// 		}
 	// 	});
 
-	new GMaps({
-	  div: '#google-map',
-		  lat: -12.043333,
-		  lng: -77.028333
-		});
-	})
+		if($('#google-map').length > 0){
+			new GMaps({
+			  div: '#google-map',
+				  lat: -12.043333,
+				  lng: -77.028333
+				});
+		}
+	});
 </script>
 </html>
